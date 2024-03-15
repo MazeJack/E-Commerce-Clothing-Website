@@ -1,6 +1,6 @@
 # E-Commerce Clothing Website
 
-This is an E-commerce Clothing Website project where users can browse and purchase clothing items.
+This is an E-commerce Clothing Website project where users can browse and purchase clothing items also can use search function to search easily new things.
 
 ![Home](https://github.com/MazeJack/E-Commerce-Clothing-Website/assets/123349721/030c8334-0f9d-4bae-8725-306620733cf4)
 ![Feature](https://github.com/MazeJack/E-Commerce-Clothing-Website/assets/123349721/53421663-ac55-480a-afd5-80b0464a3712)
